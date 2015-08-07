@@ -1,0 +1,2 @@
+# cSlider
+Custom jQuery slider
